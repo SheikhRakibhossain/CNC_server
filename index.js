@@ -16,6 +16,10 @@ app.get('/categories',(req, res)=>{
     res.send(categories)
 
 })
+app.get('/categories/:id',(req, res)=>{
+    res.send(categories)
+
+})
 
 
 app.listen(port, ()=>{
