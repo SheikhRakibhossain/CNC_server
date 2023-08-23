@@ -3,49 +3,49 @@
       "id": 1,
       "title": "Exploring Beautiful Landscapes",
       "detail": "Embark on a journey to explore breathtaking landscapes around the world.",
-      "image": "https://img.freepik.com/free-photo/funny-stylish-sexy-smiling-beautiful-young-hippie-woman-model-summer-white-hipster-clothes-posing-street_158538-11928.jpg?w=1060&t=st=1692769567~exp=1692770167~hmac=55fc5c40c182ceab48db72a397dd5e601157dc32ef4d136f8835b1d10819bbf2",
+      "image": "https://i.ibb.co/cc039V0/1.png",
       "date": "2023-08-23"
     },
     {
       "id": 2,
       "title": "Cooking Masterclass",
       "detail": "Join our cooking masterclass and learn to prepare delicious gourmet dishes.",
-      "image": "https://img.freepik.com/free-photo/handsome-man-with-glasses_144627-18655.jpg?w=360&t=st=1692769616~exp=1692770216~hmac=4db2532f7388d11c8a3dc9064e9d013a9066bfebc4e2b98a0927cbceec9d81b6",
+      "image": "https://i.ibb.co/B2GRmxR/16.png",
       "date": "2023-09-10"
     },
     {
       "id": 3,
       "title": "Yoga and Mindfulness Retreat",
       "detail": "Rejuvenate your mind and body with a serene yoga and mindfulness retreat.",
-      "image": "https://img.freepik.com/free-photo/black-doctor-baby-diaper-african-with-stethoscope_1157-46166.jpg?w=1060&t=st=1692769620~exp=1692770220~hmac=9ea6e1bd1f8378e1ae2af0e3b2340efdbb354b1590fb0c3f6d2c901eabf7802e",
+      "image": "https://i.ibb.co/Lkd4Tvx/15.png",
       "date": "2023-10-05"
     },
     {
       "id": 4,
       "title": "Tech Conference 2023",
       "detail": "Stay updated with the latest technological advancements at the Tech Conference 2023.",
-      "image": "https://img.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_2829-7179.jpg?w=1060&t=st=1692769672~exp=1692770272~hmac=8cd1d8b0dc28662c64bdc5e604444796b17fcf0f248d32e522411216d3bc3d11",
+      "image": "https://i.ibb.co/Dgsh1z7/13.png",
       "date": "2023-11-15"
     },
     {
         "id": 5,
         "title": "Cooking Masterclass",
         "detail": "Join our cooking masterclass and learn to prepare delicious gourmet dishes.",
-        "image": "https://img.freepik.com/free-photo/handsome-man-with-glasses_144627-18655.jpg?w=360&t=st=1692769616~exp=1692770216~hmac=4db2532f7388d11c8a3dc9064e9d013a9066bfebc4e2b98a0927cbceec9d81b6",
+        "image": "https://i.ibb.co/vB0qNQP/11.png ",
         "date": "2023-09-10"
       },
     {
       "id": 6,
       "title": "Art Exhibition: Colors of Emotion",
       "detail": "Immerse yourself in an art exhibition that explores the intricate relationship between colors and emotions.",
-      "image": "https://img.freepik.com/free-photo/pork-meatballs-wooden-surface_1150-43616.jpg?w=1060&t=st=1692769684~exp=1692770284~hmac=311c1e0970f95b674e1b3e20810960b9829b3555bd11c2d0cd4a9854821cfe9e",
+      "image": "https://i.ibb.co/MsQB7kX/7.png",
       "date": "2023-12-03"
     },
     {
       "id": 7,
       "title": "Hiking Adventure",
       "detail": "Experience the thrill of hiking through rugged trails and picturesque vistas.",
-      "image": "https://img.freepik.com/free-photo/blue-black-muscle-car-with-license-plate-that-says-trans-front_1340-23399.jpg?t=st=1692767305~exp=1692770905~hmac=9e31276e857ec2f7d3108a5ed0da17e839035b100283f015960aaccb140e29b0&w=1060",
+      "image": "https://i.ibb.co/VwjxjFh/9.png ",
       "date": "2024-01-20"
     },
     
@@ -53,7 +53,7 @@
           "id": 8,
           "title": "Exploring Beautiful Landscapes",
           "detail": "Embark on a journey to explore breathtaking landscapes around the world.",
-          "image": "https://img.freepik.com/free-photo/funny-stylish-sexy-smiling-beautiful-young-hippie-woman-model-summer-white-hipster-clothes-posing-street_158538-11928.jpg?w=1060&t=st=1692769567~exp=1692770167~hmac=55fc5c40c182ceab48db72a397dd5e601157dc32ef4d136f8835b1d10819bbf2",
+          "image": "https://i.ibb.co/2qXkYJg/14.png  ",
           "date": "2023-08-23"
         }
   ]

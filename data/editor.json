@@ -1,44 +1,60 @@
+
+
 [
     {
       "id": 1,
       "title": "Music Festival: Harmony Beats",
       "detail": "Immerse yourself in a music festival featuring a diverse lineup of artists and genres.",
-      "image": "https://img.freepik.com/free-photo/ai-generated-cute-girl-pic_23-2150649894.jpg?t=st=1692769372~exp=1692772972~hmac=857fd7828a668e3e71ef8511988a4add5b55a2c6a42df5cc6c88a7f69aa4d0b2&w=360",
+      "image": "https://i.ibb.co/Hq9LT90/2.png ",
       "date": "2024-03-15"
     },
     {
       "id": 2,
       "title": "Photography Workshop",
       "detail": "Enhance your photography skills with a hands-on workshop led by professional photographers.",
-      "image": "https://img.freepik.com/free-photo/render-octane-ethereal-bohemian-waxwing-bird-bombycilla-garrulus_1409-3740.jpg?t=st=1692767767~exp=1692771367~hmac=7656a88de81b40e0cf63812a912595e15a44262fe95d0c1508b42f84ad50071c&w=360",
+      "image": "https://i.ibb.co/f9TDS3d/5.png",
       "date": "2024-04-10"
     },
     {
       "id": 3,
       "title": "Fitness Bootcamp",
       "detail": "Join our intensive fitness bootcamp and achieve your health and fitness goals.",
-      "image": "https://img.freepik.com/free-photo/digital-painting-mountain-with-colorful-tree-foreground_1340-25699.jpg?t=st=1692768154~exp=1692771754~hmac=13f5d61cdad8f5ce3c42eca6fffc931191c426d5de14b108d686426df35db3ff&w=1060",
+      "image": "https://i.ibb.co/qRZ3v8d/6.png",
       "date": "2024-05-20"
     },
     {
       "id": 4,
       "title": "Science and Technology Expo",
       "detail": "Discover the latest innovations in science and technology at this interactive expo.",
-      "image": "https://img.freepik.com/free-photo/robber-making-silence-gesture_1368-6335.jpg?w=1060&t=st=1692769442~exp=1692770042~hmac=a319c8d5121af892574df42ff6068880f7ecfe5acc47289eaa55851d3290cb27",
+      "image": "https://i.ibb.co/6wXzdKy/10.png",
       "date": "2024-06-18"
     },
     {
       "id": 5,
       "title": "Summer Beach Party",
       "detail": "Celebrate the summer vibes with a beach party featuring live music, games, and more.",
-      "image": "https://img.freepik.com/free-photo/little-baby-girl-playing-outdoor-playground-against-green-grass_155003-13554.jpg?w=360&t=st=1692769518~exp=1692770118~hmac=d3677326b1022c67901524a0ac52d6d81bf87ee9d2f2ae1a176fb1db9d065b6b",
+      "image": "https://i.ibb.co/gDmPsC5/8.png ",
       "date": "2024-07-30"
     },
     {
       "id":6,
       "title": "Food Truck Festival",
       "detail": "Indulge in a variety of delicious cuisines from food trucks gathered for this culinary festival.",
-      "image": "https://img.freepik.com/free-photo/little-girl-walking-nature-field-wearing-beautiful-dress_1139-938.jpg?w=1060&t=st=1692769526~exp=1692770126~hmac=1a22d8c431bd0b2755348f39a247cf12c42c406f1f894a6dffb30434a6515000",
+      "image": "https://i.ibb.co/SQd8KDv/12.png",
+      "date": "2024-08-22"
+    },
+    {
+      "id":7,
+      "title": "Fish Truck Festival",
+      "detail": "Indulge in a variety of delicious cuisines from food trucks gathered for this culinary festival.",
+      "image": "https://i.ibb.co/py1Bhdf/3.png",
+      "date": "2024-08-22"
+    },
+    {
+      "id":8,
+      "title": "Vegetable Truck Festival",
+      "detail": "Indulge in a variety of delicious cuisines from food trucks gathered for this culinary festival.",
+      "image": "https://i.ibb.co/NrBNypx/4.png",
       "date": "2024-08-22"
     }
   ]
