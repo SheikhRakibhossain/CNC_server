@@ -7,7 +7,9 @@ const cors = require('cors')
 app.use(cors());
 
 const categories = require('./data/categories.json');
-const news = require('./data/news.json')
+const news = require('./data/news.json');
+const editor = require('./data/editor.json');
+const insights = require('./data/insights.json');
 
 app.get('/', (req, res) => {
     res.send('I am running on CNC news service')
@@ -39,6 +41,13 @@ app.get('/categories/:id', (req, res) => {
     }
 
 
+})
+
+app.get('/editor',(req, res)=>{
+    res.send(editor);
+})
+app.get('/insights',(req, res)=>{
+    res.send(insights);
 })
 
 app.listen(port, () => {
